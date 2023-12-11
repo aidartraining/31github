@@ -4,3 +4,9 @@ class Stack:
 
     def __str__(self):
         return ''
+
+    def set(self, value):
+        return
+
+    def get(self, value):
+        return
