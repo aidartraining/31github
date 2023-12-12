@@ -5,8 +5,17 @@ class LinkedList:
     def __str__(self):
         return ''
 
-    def set(self, value):
+    def prepend(self, value):
         return
 
-    def get(self, value):
+    def append(self, value):
+        return
+
+    def lookup(self, value):
+        return
+
+    def insert(self, value):
+        return
+
+    def delete(self, value):
         return
