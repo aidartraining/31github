@@ -8,5 +8,6 @@ class Tree:
     def set(self, value):
         return
 
+    # shoule be bfs or dfs
     def get(self, value):
         return
