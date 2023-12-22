@@ -1,3 +1,4 @@
+# stay hungry
 class BFS:
     def __init__(self, size):
         pass
