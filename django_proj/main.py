@@ -1,4 +1,3 @@
-# Start Django projects
 def main():
     pass
 
