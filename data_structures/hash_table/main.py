@@ -1,3 +1,4 @@
+# add checks for corner cases
 from data_structures.hash_table.hash_table import HashTable
 
 
