@@ -1,4 +1,3 @@
-# Start Graph implementation
 class Graph:
     def __init__(self, size):
         pass

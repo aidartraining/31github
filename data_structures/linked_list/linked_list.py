@@ -1,4 +1,3 @@
-# finished all functions
 class LinkedList:
     def __init__(self, size):
         pass
