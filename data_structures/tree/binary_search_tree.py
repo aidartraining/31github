@@ -1,4 +1,3 @@
-# implement binary_search_tree
 class Tree:
     def __init__(self, size):
         pass
@@ -9,6 +8,6 @@ class Tree:
     def set(self, value):
         return
 
-    # shoule be bfs or dfs
+    # should be bfs or dfs
     def get(self, value):
         return

@@ -1,4 +1,3 @@
-# need to implement
 class Queue:
     def __init__(self, size):
         pass
