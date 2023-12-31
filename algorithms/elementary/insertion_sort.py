@@ -1,4 +1,3 @@
-# keep going
 class InsertionSort:
     def __init__(self, size):
         pass

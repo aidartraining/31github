@@ -1,5 +1,4 @@
-# elementary algorithms
-def main():
+sdef main():
     pass
 
 

@@ -1,4 +1,3 @@
-# selection sort algo
 class SelectionSort:
     def __init__(self, size):
         pass

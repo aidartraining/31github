@@ -1,4 +1,3 @@
-# merge it
 class MergeSort:
     def __init__(self, size):
         pass
